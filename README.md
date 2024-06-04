@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android , Kotlin , Java , Jetpack Compose , Design patterns , Clean Architecture**
 
-- 🌱 I’m currently learning **Jetpack Compose , Kotlin Multi Platform (KMM)**
+- 🌱 I’m currently learning **Kotlin Multi Platform (KMM)**
 
 - 📫 How to reach me **abdelrahman.khaled.sw@gmail.com**
 
