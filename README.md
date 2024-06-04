@@ -10,7 +10,7 @@
 
 - Freelancr Profile : [https://www.freelancer.com/u/AbdelrahmanKHH](https://www.freelancer.com/u/AbdelrahmanKHH)
 
-- 💬 Ask me about **Android , Kotlin , Java , Jetpack Compose , Design patterns , Cleac Architecture**
+- 💬 Ask me about **Android , Kotlin , Java , Jetpack Compose , Design patterns , Clean Architecture**
 
 - 🌱 I’m currently learning **Jetpack Compose , Kotlin Multi Platform (KMM)**
 
