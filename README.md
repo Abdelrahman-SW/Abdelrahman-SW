@@ -12,7 +12,7 @@ More About me ?! 😄  :
  
   skills : 🏋️🏋️
 - build offline and online apps
-- build app with high quality and best performance 
+- build apps with high quality and the best performance 
 - build apps with Machine learning and Ai
 - build apps with modern design (good UX and UI)
 - Applying Material Design 3 in my apps to ensure good ui and ux experience
