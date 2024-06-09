@@ -4,8 +4,45 @@
 <p align="center">
   <img src="https://github.com/Abdelrahman-SW/Abdelrahman-SW/assets/171629145/cf2b0830-2b7e-4ef5-a1fc-b9ba7080b5c8" width="600" height="200" \>
 </p>
+More About me ?! 😄  :
 
 
+ Android developer with 6 years of learning and Freelancing, And
+ Developing Android apps with Java (Xml) and Kotlin (Jetpack Compose)
+ 
+  skills : 🏋️🏋️
+- build offline and online apps
+- build apps with Machine learning and Ai
+- build apps with modern design (good UX and UI)
+- Applying Material Design 3 in my apps to ensure good ui and ux experience
+- Jetpack Compose
+- building apps with the highest performance (following the best practice)
+- building offline database (With Room) and online database (with Firebase Or MySql)
+- creating Custom Views
+- Notification Services
+- Real-Time Notification From firebase & Fcm Http V1
+- Navigation Component for smooth UX design
+- Good Knowledge about best practices of using the Os to optimize battery and other resources and ensure smooth exp
+- Google Maps and Geofencing
+- Find nearby places (hospital - school - restaurant) With Google Places SDK
+- Gps Tracking
+- Ble & Bluetooth Features
+- Restful Services (using Retrofit And Ktor)
+- Recycle View (For building scroll items with the best performance) on Xml Approach
+- background Tasks (pre-fetching and caching data) : Foreground Services , WorkManager
+- streaming apps (Exoplayer2)
+- kotlin Coroutines  Flows
+- Fragments
+- Support offline Caching
+- Adaptive Design
+- Amazing Animations
+- Support Accessibility
+- Advertisement (AdManager - Admob - Admob Meditation - facebook - unity - start app - others)
+- in app-purchase, subscriptions (Google Billing library +3.0)
+- design patterns (MVP, MVVM, MVC)
+
+  
+<br></br>
 - 👯 I’m looking to collaborate on **Android Projects**
 
 - Freelancr Profile : [https://www.freelancer.com/u/AbdelrahmanKHH](https://www.freelancer.com/u/AbdelrahmanKHH)
