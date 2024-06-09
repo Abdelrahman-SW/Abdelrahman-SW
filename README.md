@@ -12,14 +12,21 @@ More About me ?! 😄  :
  
   skills : 🏋️🏋️
 - build offline and online apps
+- build app with high quality and best performance 
 - build apps with Machine learning and Ai
 - build apps with modern design (good UX and UI)
 - Applying Material Design 3 in my apps to ensure good ui and ux experience
-- Jetpack Compose
-- building apps with the highest performance (following the best practice)
+- Apply the modern toolkit for building native Android UI "Jetpack Compose"
+- building apps with Clean Arch Code To make the app fit and be scalable and extendable Easily
+- dependency injection (dagger-hilt)
+- Scoped Storage
+- Restful Services (using Retrofit And Ktor)
+- All Firebase Build Tools (Firebase Auth , Firebase Storage , FCM And more ..
 - building offline database (With Room) and online database (with Firebase Or MySql)
 - creating Custom Views
-- Notification Services
+- Dealing With Notification Services
+- Dealing With Content Provider
+- Dealing With BroadCast Receivers
 - Real-Time Notification From firebase & Fcm Http V1
 - Navigation Component for smooth UX design
 - Good Knowledge about best practices of using the Os to optimize battery and other resources and ensure smooth exp
@@ -27,20 +34,16 @@ More About me ?! 😄  :
 - Find nearby places (hospital - school - restaurant) With Google Places SDK
 - Gps Tracking
 - Ble & Bluetooth Features
-- Restful Services (using Retrofit And Ktor)
-- Recycle View (For building scroll items with the best performance) on Xml Approach
-- background Tasks (pre-fetching and caching data) : Foreground Services , WorkManager
-- streaming apps (Exoplayer2)
-- kotlin Coroutines  Flows
-- Fragments
-- Support offline Caching
+- background Tasks (pre-fetching,caching and Syncing data) : Foreground Services , WorkManager
+- Build streaming apps (Exoplayer2)
+- kotlin Coroutines & Flows & ViewModels
 - Adaptive Design
 - Amazing Animations
 - Support Accessibility
 - Advertisement (AdManager - Admob - Admob Meditation - facebook - unity - start app - others)
 - in app-purchase, subscriptions (Google Billing library +3.0)
 - design patterns (MVP, MVVM, MVC)
-
+- and more .. 
   
 <br></br>
 - 👯 I’m looking to collaborate on **Android Projects**
