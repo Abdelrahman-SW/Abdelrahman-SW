@@ -10,7 +10,7 @@ More About me ?! 😄  :
  Android developer with 6 years of learning and Freelancing, And
  Developing Android apps with Java (Xml) and Kotlin (Jetpack Compose)
  
-  skills : 🏋️🏋️
+  My Android skills : 🏋️🏋️
 - build offline and online apps
 - build apps with high quality and the best performance 
 - build apps with Machine learning and Ai
