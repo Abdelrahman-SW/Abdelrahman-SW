@@ -52,7 +52,7 @@ More About me ?! 😄  :
 <br></br>
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- Freelancr Profile : [https://www.freelancer.com/u/AbdelrahmanKHH](https://www.freelancer.com/u/AbdelrahmanKHH)
+- Freelancr Profile : [https://www.freelancer.com/u/AbdelrahmanKHH](https://www.freelancer.com/u/AbdelrahmanKHH) << Take A look At My Clients Reviews ⭐⭐⭐⭐⭐ 
 
 - 💬 Ask me about **Android , Kotlin , Java , Jetpack Compose , Design patterns , Clean Architecture**
 
